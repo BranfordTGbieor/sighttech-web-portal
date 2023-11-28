@@ -47,8 +47,8 @@ build/Release
 node_modules/
 
 # Optional npm cache directory
-.npm
-.next
+# .npm
+# .next
 
 # Optional eslint cache
 .eslintcache
