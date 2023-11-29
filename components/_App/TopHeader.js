@@ -25,9 +25,9 @@ const TopHeader = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:info@sighttechnologiesgroup.com">
+                    <a href="mailto:info@sighttechsystems.com">
                       <i className="bx bxs-envelope"></i>{" "}
-                      info@sighttechnologiesgroup.com
+                      info@sighttechsystems.com
                     </a>
                   </li>
                 </ul>

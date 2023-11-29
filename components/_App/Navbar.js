@@ -122,13 +122,13 @@ const Navbar = () => {
                   </div>
                 </div>
 
-                <ul className="navbar-nav text-right">
+                {/* <ul className="navbar-nav text-right">
                   <li className="nav-item">
                     <Link href="/sign-in">
                       <a className="nav-link">Login</a>
                     </Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </nav>
           </div>
