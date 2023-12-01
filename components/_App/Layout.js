@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
                 <meta name="description" content="Sight Technologies" />
                 <meta name="og:title" property="og:title" content="Sight Technologies"></meta>
                 <meta name="twitter:card" content="Sight Technologies"></meta>
-                <link rel="canonical" href="https://sighttechsystems.com/"></link>
+                <link rel="canonical" href="https://sightechsystems.com/"></link>
             </Head>
 
             {children}

@@ -30,7 +30,7 @@ export default async (req, res) => {
   try {
     const response = await mailer.sendMail(data);
     console.log(response);
-    res.status(200).send("Email send successfully");
+    res.status(200).send("Email sent successfully");
   } catch (error) {
     console.log(error);
     res.status(500).send("Error proccessing charge");

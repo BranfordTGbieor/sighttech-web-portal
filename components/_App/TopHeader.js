@@ -21,13 +21,13 @@ const TopHeader = () => {
                 <ul className="header-contact">
                   <li>
                     <a href="tel:+1123456789">
-                      <i className="bx bxs-phone-call"></i> (+231) 776-578-735
+                      <i className="bx bxs-phone-call"></i> +231-776-578-735
                     </a>
                   </li>
                   <li>
                     <a href="mailto:info@sighttechsystems.com">
                       <i className="bx bxs-envelope"></i>{" "}
-                      info@sighttechsystems.com
+                      info@sightechsystems.com
                     </a>
                   </li>
                 </ul>

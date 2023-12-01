@@ -146,17 +146,17 @@ const Footer = () => {
                 <ul className="footer-list foot-social">
                   <li>
                     <a href="tel:+1975456789">
-                      <i className="bx bx-phone"></i> (+231) 776-578-735
+                      <i className="bx bx-phone"></i> +231-776-578-735
                     </a>
                   </li>
                   <li>
                     <a href="mailto:hello@zoko.com">
                       <i className="bx bxs-envelope"></i>{" "}
-                      info@sighttechnologies.net
+                      info@sightechsystems.com
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:support@sighttechnologies.net">
+                    <a href="mailto:infot@sightechsystems.com">
                       <i className="bx bxs-envelope"></i>{" "}
                       sight.technologies@gmail.com
                     </a>
